@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MeetingRoomDashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF34EC10B9A64A6084694329B9200CAE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19DF55DC92E148F592CDD204F3A8AF6E }}
           package: .
